@@ -1,0 +1,4 @@
+RENCANA SESEN UJI
+- Javascript
+- MySql
+- Pemrograman PHP
