@@ -1,6 +1,7 @@
 RENCANA SESEN UJI
 - Javascript
 - MySql
+ 2. tempat program
 - Pemrograman PHP
 - Pemrograman Web
  1. aplikasi web sekolah
