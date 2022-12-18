@@ -3,3 +3,5 @@ RENCANA SESEN UJI
 - MySql
 - Pemrograman PHP
 - Pemrograman Web
+ 1. aplikasi web sekolah
+ 2. aplikasi web aja
